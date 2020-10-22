@@ -5,7 +5,7 @@ public class CodPay {
 	private double ordAmount;
 	public double getPin() {
 		return pin;
-	}
+	}//system class
 	public void setPin(double pin) {
 		this.pin = pin;
 	}
